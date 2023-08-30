@@ -1,0 +1,9 @@
+env
+__pycache__
+*.gguf
+*.bin
+
+Llama-2-ko-7B-chat-gguf-q4_0.bin
+Llama-2-ko-7B-chat-gguf-q4_0.bin
+code-ggml-model-q4_0.gguf
+*.sh
